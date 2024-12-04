@@ -1,1 +1,7 @@
+@font-face {
+    font-family: 'Exterior Light';
+    src: url('../fonts/Exterior Light.otf') format(.otf);
+    font-weight: normal;
+    font-style: normal;
+}
 
